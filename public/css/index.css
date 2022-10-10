@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(219, 219, 219);
+}
+.mycontainer{
+    margin: auto;
+    width: 50%;
+    height: 100%;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    border-bottom: 1px solid;
+}
+.myform{
+    border-bottom: 1px solid;
+}
+.filter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.buttun{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+/* .buttun ul{
+    display: flex;
+    list-style: none;
+}
+.buttun ul li a{
+    margin-right: 5px;
+} */
+.myborder{
+    border-bottom: 1px solid;
+    margin-top: 50px;
+}
+table img{
+    width: 15px;
+}
